@@ -1,6 +1,8 @@
 
 #EXTM3U 
+#EXTINF: -1 tvg-id="1101" tvg-name="TV1" tvg-chno="1" group-title="MYSG" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png", TV1 CH101
 
+https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891736
 #EXTINF: -1 tvg-id="1102" tvg-chno="2" group-title="MYSG" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png", TV2 CH102
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891739
@@ -531,69 +533,69 @@ https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891954
 #EXTINF: -1  group-title="MYSG" tvg-logo="https://telegra.ph/file/1a81fc95e0d837254d5d8.jpg", Channel 8
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891955
-#EXTINF: -1 , RCTI group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  RCTI  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891956
-#EXTINF: -1 , SCTV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  SCTV  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891957
-#EXTINF: -1 , Indosiar group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  Indosiar  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891958
-#EXTINF: -1 , NET TV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  NET TV 
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891959
-#EXTINF: -1 , MNCTV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  MNCTV 
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891960
-#EXTINF: -1 , TRANSTV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  TRANSTV 
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891961
-#EXTINF: -1 , GTV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  GTV  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891962
-#EXTINF: -1 , Kompas TV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  Kompas TV 
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891963
-#EXTINF: -1 , Metro TV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  Metro TV  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891964
-#EXTINF: -1 , Metro TV [Backup] group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  Metro TV [Backup] 
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891965
-#EXTINF: -1 , O Channel group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  O Channel  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891966
-#EXTINF: -1 , Jak TV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  Jak TV  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891967
-#EXTINF: -1 , Jek TV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  Jek TV  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891968
-#EXTINF: -1 , JTV group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  JTV  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891969
-#EXTINF: -1 , TVRI NASIONAL group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  TVRI NASIONAL  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891970
-#EXTINF: -1 , Citra Drama group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" ,  Citra Drama 
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891971
-#EXTINF: -1 , Citra Muslim group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" , Citra Muslim
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891972
-#EXTINF: -1 , Citra Bioskop group-title="INDO" 
+#EXTINF: -1 , group-title="INDO",  Citra Bioskop 
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891973
-#EXTINF: -1 , TV Edukasi group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" , TV Edukasi  
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891974
-#EXTINF: -1 , Berita Satu group-title="INDO" 
+#EXTINF: -1 , group-title="INDO" , Berita Satu 
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891975
-#EXTINF: -1 , group-title="INDO" Berita Satu [Backup]
+#EXTINF: -1 , group-title="INDO", Berita Satu [Backup]
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891976
-#EXTINF: -1 , group-title="INDO" CNN Indonesia
+#EXTINF: -1 , group-title="INDO", CNN Indonesia
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891977
