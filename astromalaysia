@@ -1,7 +1,5 @@
 
 #EXTM3U 
-#EXTINF: -1 tvg-id="1101" tvg-name="TV1" tvg-chno="1" group-title="MYSG" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png", TV1 CH101
-
 
 #EXTINF: -1 tvg-id="1102" tvg-chno="2" group-title="MYSG" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png", TV2 CH102
 
